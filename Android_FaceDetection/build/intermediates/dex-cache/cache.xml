@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/adrian/.android/build-cache/242e54b7847e9d39ed22d8ed0aa6be03ff797c43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/adrian/AndroidStudioProjects/Face/app/build/intermediates/pre-dexed/debug/classes_cca9fdcce244c3b7ff7efd169b65bed1743b67e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrian/.android/build-cache/5e6dbee3f9c274d10392165d8150ccb66943b58d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/adrian/AndroidStudioProjects/Face/app/build/intermediates/pre-dexed/debug/classes_f43ae4ea3ca34f19d3c1714f502d78fbc20cdd8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrian/.android/build-cache/46a245a4cdd5375784d61f2eb30bb8d27dec5256/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/adrian/AndroidStudioProjects/Face/app/build/intermediates/pre-dexed/debug/classes_496bea304f0708e1aa5e52187af91f626281a9ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrian/.android/build-cache/daaa420fab5fc807a9e9602e782c6f0062523563/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/adrian/AndroidStudioProjects/Face/app/build/intermediates/pre-dexed/debug/classes_0d2dfb11e500f42e4a85d2157e82d9ff23b36c83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrian/.android/build-cache/790edd66755c69750e66b8730fccab37d0447a4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/adrian/AndroidStudioProjects/Face/app/build/intermediates/pre-dexed/debug/classes_f83f207eff7dec108a30f360cc0e9bc95e6d5963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrian/.android/build-cache/33a1f9ad971727a171ddebc94f800fed26612e9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/adrian/AndroidStudioProjects/Face/app/build/intermediates/pre-dexed/debug/classes_d3c364b16b4ae2378000f17d1790f7152e63b24d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrian/.android/build-cache/f12a6d9f88bf1f9d76fc3b8de872e7c98420799a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/adrian/AndroidStudioProjects/Face/app/build/intermediates/pre-dexed/debug/classes_23c2c79345f4f73c6e6e89dd0c427663fa56c372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrian/.android/build-cache/f7e5f87abcbb51b54ffa046cd47b532081020be4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/adrian/AndroidStudioProjects/Face/app/build/intermediates/pre-dexed/debug/classes_5efb98c28d0ecb5d986c14f1b6156299d6785b39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adrian/.android/build-cache/aa12a1efaeb759763e59a1e27db94d43a458e10c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/adrian/AndroidStudioProjects/Face/app/build/intermediates/pre-dexed/debug/classes_909f044a5794fdaa7d3588aef89d9f98daa7445b.jar" />
+    </item>
+
+</items>

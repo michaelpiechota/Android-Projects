@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.2.0_83e38900e9cf1e3baa94a121fc7230eb2214db9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.2.0_8ff83eb340d1402a4c63cb8db059868bbfe85837/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.2.0_55344dafe3468029be1fafd37b38ad2ca8681851/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.2.0_73e704e002a7682dd1488450283fcc02647e22cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_f6f79899f186cfb2cfdf339b4125ec7da40a1031/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.2.0_4f7b5fdb9b0708e622aa4003b13a8a25fe26472a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.0_4c533c8763b2b528109c6ef0190dbc2d1b7b03de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_ca69bcc0a3d00f3f0622d76b07f76aa29c486f13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_efd2e83ae00c0ffbc4898c46b65c99eff2a5dfed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_6499a76096026d4619247ebcd2bcef88bd6e8bda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.0_0fa7873e721c081b66c47375021ad600a80fc6ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.2.0_faae4c5155c816aac42e5a182a35d17b4ab7ff23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.0_0c7196538da3d63c53ccab25a46a9ab3b91e5fef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.0_48e2e5237021927280308cdb963068487a4e3da1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.2.0_35f007bd69506932f96d9fcd2265adab7dc24b7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.2.0_45d52dde48089c9fa97ab6ab6f7d4395b242633e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.0_948b1706d928ea9ebe3c0ce9793cecfb06954a34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.2.0_5bf08d4f259b0ac74230cc6b0dd85bd497f18d54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.0_16d5570d71d4bc279e98d05d8c84a072fc036636/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.2.0_528921f99831d32a4d24d8cda59538d462a62793/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.2.0_0ac03b9d8d5109d5783978251d3b46c6f756c4c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.0_2b5dd21d26c2a749d8549d635a3c9cff3493c1c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.0_a77126e8915bd1e766550eefb377a63ab10a1e1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.2.0_07c1cfdf648f26bdbfa1d7ec0f88f5d9ac8cc6d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.0_ff17ee3e6b724b4d1e2522c3a966320bf5a6b67f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.2.0_a9856ae80129a4a9e3548cf3ab4ed546a9366eb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.2.0_e9a55959cfada5a277556e32bec42c922d9f4c87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.0_a0ff9ca1013acc94b93b2a41e7ee22adcc1fa5f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.0_ff1d8261bbe5b0d3681362ae7ce834f1a43dbf2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.2.0_e54fa201c08769d0d246b4966049912dbacbe77b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_98b8ae517638cae666d6071e4fd2f27b5d8be36f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.2.0_0c6de4b75f3a727ffbe6075b39c61559d0baac1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c982fd64964b71139b4f67b91c9452958e14242e">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e3875db91ff05156a679959e689122fb0fefae23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_98a3d7b979d10d85e3f5e2e5b6b8ea3a33908faa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.2.0_4bfbd129cd9b69fd33dcc3ec77cc21c42ea8073c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.2.0_9938171757a6006aed49f3e51e2446bfefb76d35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.2.0_2c181a0f7ba5d6e10f6852e14bc88d8ff6d60a8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.2.0_46c3aa719cd3099725197e268df1c4fb91cccc9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_81cfa0231e415a9cfbc191966466b326c9d10042/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_49471ffde012e2a434117db05ad9df20a9e4bc29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.2.0_c929a4ecb11510b6d730589f662a41218e695259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.0_3a38270de54a3ffcfd071ee5c627617a00a43aeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.2.0_d8afe0a87c6da8e0a620c9422b48691bd7f21f12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.2.0_3197267d384af3b314564e756626f5e6537d704c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.2.0_109bff055c132dfd4a1651f95ad91c5775dd473d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_0610ff72ecf0722fb79c9581f73e9f00d8790105/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.2.0_bcff459645fc918bcc6cea46299e3746cd9c41d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_17e73d01f9372aecc3b471c980d7ce9004900e5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.0_0e84337b2cb1fc7adf99b106bec110f403792baf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.2.0_3dcd668f00ea1e57a12e1f5fa8e64ff2729fabfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.0_125516fca97b31961b4fdac965da7e061dc73df7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.2.0_e666ccf57524857e146a80c4b3de4e4b7cac76f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.2.0_db113fd51cdfa1f24de7309ce1e16fb92c1b4b85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.2.0_1b0db901205dbd58694184f867cb91671ac77e61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.2.0_668036debed7235a6beb60a6f1cc86ccb4c34f20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.2.0_50a0d16cfe154d96b8306c7ca4cc7a5d57dfd98a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.0_c10a687f13d5287d7ffa1b38f1768228d19404f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="71ac6793d4e39b112d3940d15a4a60d3cfeb1b18">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b12539289ccace7adf41fa87c7ae227123d82158/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.2.0_e941c4f890fd8b864151773cbb68df043760b18d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="/Users/Mike/Documents/CSUN Spring 2017/COMP 595/Projects/Project 6/Piechota_Project6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.0_13b9ad588a25c11adca30d463c9d4325650412e3/classes.dex" />
+    </item>
+
+</items>
