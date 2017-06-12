@@ -1,8 +1,5 @@
-Michael Piechota
-Project 6 Description
-
-My enhancement: This program changes the color of the line depending on which
-floor you are on.
+This program uses Google’s Map API to draw a line that represents where the user has walked while the application is open. 
+Further, the line changes color depending on which floor (of a standard building) the user is on.
 
 Parameters:
 -This program uses the barometer to sense pressure differences between floors.
